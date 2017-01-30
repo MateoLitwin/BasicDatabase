@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/close.png</file>
+        <file>icons/editData.png</file>
+        <file>icons/editDelete.png</file>
+        <file>icons/editId.png</file>
+        <file>icons/filterData.png</file>
+        <file>icons/filterDelete.png</file>
+        <file>icons/filterId.png</file>
+        <file>icons/save.png</file>
+        <file>icons/add.png</file>
+    </qresource>
+</RCC>
